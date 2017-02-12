@@ -1,0 +1,16 @@
+.NavItem {
+  width: 20%;
+}
+
+.Nav {
+  width: 100%;
+}
+
+.navbar-inverse {
+  background-color: pink;
+  border-color: grey;
+}
+
+.navbar-inverse .navbar-nav li a {
+  color: darkred;
+}
