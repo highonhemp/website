@@ -1,0 +1,6 @@
+.Main {
+  background-image: url('../resources/home.jpeg');
+  background-size: contain;
+  height: 307px;
+  width: 70%;
+}
